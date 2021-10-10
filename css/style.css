@@ -10,7 +10,6 @@ body{
 	font-size: 100% auto;
 	margin-top: 10px;
     	margin-bottom: 0px;
-    	margin-left: 0px;
 	color: white;
 	background-color: #000000;
 
@@ -23,7 +22,7 @@ body{
 }
 
 .box1{
-	width: 330px;
+	width: 600px;
 	margin: 0px 0px 33px 10px;
 }
 
